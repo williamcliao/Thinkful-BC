@@ -1,0 +1,24 @@
+Evaluating Data Sources Drill
+
+Example 1: Amsterdam availability data scraped from AirBnB on December 24th. Question: What are the popular neighborhoods in Amsterdam?
+
+Answer: This is an example of data being collected under an exceptional circumstance. It's likely that a lot more properties are being rented than usual on Christmas Eve. The data would not be representative of neighborhood popularity throughout the year. 
+
+The data should either be collected at another time of year or the research question could be reframed to look at what Amsterdam neighborhoods are popular on Christmas Eve. 
+
+
+----------
+
+Example 2: Mental health services use on September 12, 2001 in San Francisco, CA and New York City, NY. Question: How do patterns of mental health service use vary between cities? 
+
+Answer: Another example of data being collected under an exceptional circumstance. Given that the data was collected 1 day after a large-scale terror incident in New York City the data collected from that city will inevitably be skewed and not be representative of how the city generally uses mental health services. 
+
+The data should either be collected during another time of year. 
+
+----------
+
+Example 3: Armenian Pub Survey. Question: What are the most common reasons Armenians visit local pubs? 
+
+Answer: The data is biased towards young students. 
+
+The research question could be adjusted to focus on young students' common reasons for visiting local pubs. 
